@@ -8,3 +8,4 @@ This package gathers all messages needed to exchange information between high le
 
 ## 4. Contributors
 * Raphael Leber
+* Simon Ernst
