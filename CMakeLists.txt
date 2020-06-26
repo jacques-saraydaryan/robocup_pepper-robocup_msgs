@@ -19,7 +19,7 @@ add_message_files(FILES
   Entity2D.msg
   Entity2DList.msg
   InterestPoint.msg
-  ItM.msg
+  Node.msg
   Edge.msg
   Graph.msg
   Action.msg
