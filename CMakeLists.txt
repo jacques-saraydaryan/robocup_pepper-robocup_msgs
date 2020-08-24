@@ -19,6 +19,9 @@ add_message_files(FILES
   Entity2D.msg
   Entity2DList.msg
   InterestPoint.msg
+  Node.msg
+  Edge.msg
+  Graph.msg
   Action.msg
   NavigationAction.msg
   gm_bus_msg.msg
